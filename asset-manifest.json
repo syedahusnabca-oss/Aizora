@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Aizora/static/css/main.8a014402.css",
-    "main.js": "/Aizora/static/js/main.1c1fc46e.js",
+    "main.css": "/Aizora/static/css/main.a50e2d74.css",
+    "main.js": "/Aizora/static/js/main.06afa71f.js",
     "static/media/vid.mp4": "/Aizora/static/media/vid.b33caa308a3389b070d3.mp4",
     "static/media/outerspace.gif": "/Aizora/static/media/outerspace.242f614150679f8e9d4e.gif",
     "static/media/4.png": "/Aizora/static/media/4.455d9cb3ea049bec32bf.png",
@@ -11,11 +11,11 @@
     "static/media/1.png": "/Aizora/static/media/1.9bacceba41b05db10a65.png",
     "static/media/logo.jpeg": "/Aizora/static/media/logo.7eab6e30efe7b8bba089.jpeg",
     "index.html": "/Aizora/index.html",
-    "main.8a014402.css.map": "/Aizora/static/css/main.8a014402.css.map",
-    "main.1c1fc46e.js.map": "/Aizora/static/js/main.1c1fc46e.js.map"
+    "main.a50e2d74.css.map": "/Aizora/static/css/main.a50e2d74.css.map",
+    "main.06afa71f.js.map": "/Aizora/static/js/main.06afa71f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a014402.css",
-    "static/js/main.1c1fc46e.js"
+    "static/css/main.a50e2d74.css",
+    "static/js/main.06afa71f.js"
   ]
 }
